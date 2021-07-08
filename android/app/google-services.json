@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440769110378",
+    "project_id": "workflowproject-b8179",
+    "storage_bucket": "workflowproject-b8179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440769110378:android:5ec331d2544ccc90354513",
+        "android_client_info": {
+          "package_name": "com.example.alameenhrworkflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440769110378-iujisc4fvi5kd43psit7cfri0rgdtlqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0d4rVix-djvRCx2wAfG9DvEGnM4sgf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440769110378-iujisc4fvi5kd43psit7cfri0rgdtlqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
